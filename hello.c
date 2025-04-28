@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define WIDTH 50
-#define HEIGHT 50
-#define MAX_LENGTH 100
+#define WIDTH 150
+#define HEIGHT 150
+#define MAX_LENGTH 500
 
 // Snake structure
 struct Position {
