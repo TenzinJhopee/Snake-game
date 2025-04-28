@@ -16,6 +16,7 @@ struct Position snake[MAX_LENGTH];
 int length;
 struct Position food;
 int direction; // 0: Up, 1: Right, 2: Down, 3: Left
+int value;
 
 // Initialize the game
 void init_game() {
